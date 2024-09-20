@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Ricky.</h1>
 <h3 align="center">I have been building apps for 4 years!</h3>
+<h4>I am a dedicated front-end developer with a unique blend of experience in customer-centric roles, leadership, and sales, spanning 7+ years. My background as a sales manager has taught me how to identify customer pain points and solutions, foster customer loyalty, and drive key initiatives in customer retention. These experiences seamlessly transitioned into an intuition for transforming business needs into technical specifications and a passion for creating robust customer-facing products. I leverage my strong leadership skills and collaborative approach to utilize cutting-edge front-end technologies, transforming data into captivating and functional user experiences that resonate with end-users.
+</h4>
 
-- 🌱 I’m currently learning **React, Node, TypeScript**
+- 🌱 I’m currently learning **React, Next.js, TypeScript**
 
 - 📫 How to reach me **rickytran.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_rWdxogj5IRwe-IOcXWdvvTwdagQ8lDi/view?usp=sharing](https://drive.google.com/file/d/1_rWdxogj5IRwe-IOcXWdvvTwdagQ8lDi/view?usp=sharing)
-
-- ⚡ Fun fact **I make sushi 🍣**
+- 🌐 Check out my [portfolio](https://www.rickytrandev.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
